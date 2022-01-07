@@ -1,5 +1,5 @@
 # StudentManagement
-This is a frontend application which consumes APIs from a SpringBoot backend application on this link https://github.com/Kmusau/assignmentone. 
+This is a frontend application which consumes APIs from a SpringBoot backend application on this link https://github.com/Kmusau/Spring-with-MySQL. 
 It does the basic CRUD operations i.e Create, Read, Update and Delete functions. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
